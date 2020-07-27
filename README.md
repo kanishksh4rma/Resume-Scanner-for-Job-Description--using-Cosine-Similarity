@@ -16,7 +16,6 @@
 
 ---
 
-
 ## **Installation**
 
 ### Copy and Run this in terminal: 
@@ -26,7 +25,6 @@ pip3 install docx2txt
 
 git clone https://github.com/kanishksh4rma/Resume-Scanner-for-Job-Description.git
 ```
-
 ---
 
 ### Libraries used : 
@@ -38,6 +36,5 @@ git clone https://github.com/kanishksh4rma/Resume-Scanner-for-Job-Description.gi
 ---
   
 > Developed by: [Kanishk Sharma](https://github.com/kanishksh4rma)
----
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/kanishksh4rma/Parkinson-Disease-Prediction-in-Early-Stages)
